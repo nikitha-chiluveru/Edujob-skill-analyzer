@@ -1,0 +1,42 @@
+College Name,Subject,Topics Covered
+IIT BOMBAY,COMPUTING AND,"Numbers, Text, Images, Abstraction Techniques, And Its Principles Functional Programming, Pure Functions, Immutability Object-, Oriented Programming Fundamentals, Classes, Objects"
+IIT BOMBAY,DISCRETE STRUCTURES,"Logic And Proofs, Propositional And Predicate Calculus Set, Operations, Relations, Functions, Mathematical Induction And Recursion Combinatorics, Counting Principles, Permutations, Combinations Graph Fundamentals, Graphs, Trees, Connectivity Relations"
+IIT BOMBAY,PROGRAMMING PARADIGMS LABORATORY,"Implementation Of Different Programming Paradigms, Classes, Inheritance"
+IIT BOMBAY,PROGRAMMING,"And Techniques, Advanced Data Structures, Linked Lists, Stacks, Queues, Trees Memory Management And Dynamic"
+IIT BOMBAY,DATA,Structures And Algorithms +
+IIT BOMBAY,LOGIC FOR CS,"Propositional Logic, Syntax, Semantics, Truth Tables Predicate Logic, Quantifiers, Interpretations, Natural Deduction, Resolution, System Specification To Model Checking"
+IIT BOMBAY,DATA STRUCTURES LAB,"Implementation Of Linear Data Structures, Arrays, Linked Lists, Stacks, Queues Implementation, Non-Linear Data Structures, Trees, Heaps, Algorithms Implementation, Binary Search"
+IIT BOMBAY,AUTOMATA THEORY AND LOGIC,"Finite Automata, Computational Complexity, Matching"
+IIT BOMBAY,LOGIC DESIGN,"Adders, Multiplexers, Decoders, Sequential Circuit Design, Flip-Flops, Counters, For Digital Circuits"
+IIT BOMBAY,DIGITAL LOGIC DESIGN,"Devices Programmable Logic Devices (Plds, Fpgas) Digital System Design Methodologies, Digital Circuits"
+IIT BOMBAY,DIGITAL LOGIC DESIGN AND COMPUTER ARCHITECTURE,"Design With Computer Architecture, Memory, Hierarchy Design, Cache"
+IIT BOMBAY,DIGITAL LOGIC AND COMPUTER ARCHITECTURE LAB,"Computer Components, Arithmetic Circuits Sequential Circuit Implementation, Counters, Registers Finite State Machine"
+IIT BOMBAY,SOFTWARE SYSTEMS LAB,Experience With Software System Development
+IIT BOMBAY,DIGITAL LOGIC DESIGN LAB,"Implementation Of Digital Logic Circuits, Sequential Circuit Implementation, Counters, Optimization Of Implemented Circuits"
+IIT BOMBAY,LOGIC DESIGN LAB,"Digital Logic Design, Adders, Multiplexers, Decoders Sequential Circuit Design, Flip-Flops, Counters, Registers Finite State"
+IIT BOMBAY,COMPUTER ARCHITECTURE,"Data Path And Control, Cache, Main Memory, Multicore, Architecture"
+IIT BOMBAY,AUTOMATA THEORY,"Finite Automata, Complexity Classes, Recognition Semester 5"
+IIT BOMBAY,IMPLEMENTATION OF PROGRAMMING LANGUAGES,"Techniques For Implementing Programming Languages, Phases Of Compilation, Lexical Analysis, Parsing, Semantic Analysis Syntax-Directed Translation, Interpreter Design And Implementation"
+IIT BOMBAY,EMBEDDED SYSTEMS LAB,"Implementation Of Embedded Systems, For Embedded Systems (I2C"
+IIT BOMBAY,IMPLEMENTATION OF,Language
+IIT BOMBAY,OPERATING SYSTEMS LAB,"Components, Implementation And Extension"
+IIT BOMBAY,ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING,"Problem Solving By Search, Supervised, Unsupervised, Reinforcement Learning Classification Algorithms, Decision Trees"
+IIT BOMBAY,COMPUTER ARCHITECTURE LAB,"Practical Exploration Of Computer Architecture, Simplescalar Optimization"
+IIT BOMBAY,ARTIFICIAL INTELLIGENCE,"And Techniques In Artificial Intelligence, Semantic, Networks, Frames, Ontologies Reasoning Under Uncertainty, Bayesian Networks, Probabilistic, Learning Integration With Ai Systems"
+IIT BOMBAY,OPERATING SYSTEMS,"Operating System Principles And Design, Creation, Scheduling, Critical Sections, Semaphores, Monitors Deadlock Prevention, Avoidance, And Detection Memory Management, Paging, Segmentation, Virtual Memory File Systems, Implementation"
+IIT BOMBAY,COMPUTER NETWORKS,"Of Computer Networking, Link Layer, Framing, Error Detection, Mac Protocols Network Layer, Routing Algorithms, Protocol Transport Layer, Congestion Control Application Layer Protocols, Http"
+IIT BOMBAY,OPERATING SYSTEMS LAB,"Implementation (Paging, Analysis Of Implemented Os Components"
+IIT BOMBAY,ARTIFICIAL INTELLIGENCE LAB,"Implementation Of Search Algorithms (A*, Ida*, Etc.) Constraint Satisfaction Problem Solvers, Implementation (Classification, Clustering) Natural Language Processing Applications"
+IIT BOMBAY,DATABASE AND INFORMATION,"Trees, Techniques Implementation Semester 7"
+IIT BOMBAY,GRAPH THEORY,"And Applications In Computer Science, Paths, Edmonds-, Karp) Applications In Computer Networks, Social Networks, And Optimization"
+IIT BOMBAY,INTRODUCTION TO MACHINE LEARNING,"Practice, Supervised Learning, Linear Regression, Boosting) Neural, Clustering, Dimensionality, Reduction Reinforcement Learning Learning, Bias-Variance Tradeoff, Overfitting"
+IIT BOMBAY,AUTOMATED,"Propositional Logic Reasoning, Dpll, Resolution First-Order Logic Reasoning, Unification"
+IIT BOMBAY,TOPICS IN,"Topics, Considerations"
+IIT BOMBAY,COMPUTER NETWORKS,"Network Layer Protocols, Ipv6, Multicast Routing Transport Layer Enhancements, Tcp Variants, Quic Network Security, Ipsec, Firewalls Wireless Network Protocols, Cellular"
+IIT BOMBAY,FUNCTIONAL AND LOGIC PROGRAMMING,"Programming, Functional Programming, Pure Functions, Immutability Higher-Order Functions, Logic Programming Fundamentals, Horn Clauses, Unification Prolog Programming"
+IIT BOMBAY,B.TECH. PROJECT (20 CREDITS),"Validation, And Defense Of The Project"
+IIT BOMBAY,B.TECH. PROJECT (CONTINUATION),Of The B.Tech Project
+IIT BOMBAY,B.TECH. PROJECT STAGE II,Delivery
+IIT BOMBAY,INTRODUCTION TO CRYPTOGRAPHY,"Key Cryptography, Block Ciphers, Stream Ciphers Public Key Cryptography, Diffie-Hellman, And Protocols"
+IIT BOMBAY,DATA MINING,"Large Datasets, Discovery Classification Algorithms, Decision Trees, Naive Bayes, Svm Clustering Algorithms, Means, Hierarchical"
+IIT BOMBAY,NATURAL LANGUAGE PROCESSING,Understanding Human Language

@@ -1,0 +1,109 @@
+Domain,Missing Skill
+Data Science & Analytics,data storytelling
+Data Science & Analytics,r statistical computing
+Data Science & Analytics,python data analysis
+Data Science & Analytics,data visualization power bi tableau
+Data Science & Analytics,ab testing
+Data Science & Analytics,probability statistic
+Artificial Intelligence & Machine Learning,transformer llm
+Artificial Intelligence & Machine Learning,mlops
+Artificial Intelligence & Machine Learning,prompt engineering
+Cloud Computing,cloud cost optimization
+Cloud Computing,aws service
+Cloud Computing,infrastructure code terraform
+Cloud Computing,cicd cloud
+Cloud Computing,docker
+Cybersecurity,siem tool
+Cybersecurity,application security
+DevOps & Site Reliability,cicd pipeline
+DevOps & Site Reliability,devsecops
+DevOps & Site Reliability,site reliability engineering
+DevOps & Site Reliability,github action
+DevOps & Site Reliability,monitoring observability
+Software Engineering & Systems,version control git
+Web Development & Full Stack,graphql
+Web Development & Full Stack,frontend optimization
+Web Development & Full Stack,rest apis
+Web Development & Full Stack,nodejs
+Web Development & Full Stack,javascript es6
+Business Analytics & BI,tableau reporting
+Business Analytics & BI,advanced excel
+Business Analytics & BI,power bi dashboard
+Business Analytics & BI,kpi monitoring
+Data Engineering,airflow orchestration
+Data Engineering,airflow workflow orchestration
+Data Engineering,schema design optimization
+Data Engineering,data warehousing snowflake
+Data Engineering,etl pipeline
+Data Engineering,etl pipeline development
+Data Engineering,data governance practice
+Data Engineering,kafka streaming
+Soft & Employability Skills,continuous learning
+Soft & Employability Skills,analytical thinking
+Generative AI & LLM Engineering,multimodal ai system
+Generative AI & LLM Engineering,responsible ai bias mitigation
+Generative AI & LLM Engineering,retrievalaugmented generation rag
+Generative AI & LLM Engineering,prompt engineering llm
+Generative AI & LLM Engineering,langchain llamaindex framework
+Generative AI & LLM Engineering,ai agent development
+Generative AI & LLM Engineering,vector database faiss pinecone
+Generative AI & LLM Engineering,llm deployment apis
+MLOps & Model Deployment,monitoring ml model production
+MLOps & Model Deployment,data drift detection
+MLOps & Model Deployment,kubernetes ml scaling
+MLOps & Model Deployment,cicd machine learning
+MLOps & Model Deployment,automated model retraining
+MLOps & Model Deployment,experiment tracking
+MLOps & Model Deployment,docker ml model
+MLOps & Model Deployment,feature store
+MLOps & Model Deployment,model versioning mlflow
+MLOps & Model Deployment,ml pipeline automation
+Blockchain & Web3,web3 authentication system
+Blockchain & Web3,defi system architecture
+Blockchain & Web3,blockchain security auditing
+Blockchain & Web3,nft platform development
+Blockchain & Web3,smart contract development solidity
+Blockchain & Web3,layer 2 scaling solution
+Blockchain & Web3,ethereum development
+IoT & Embedded Systems,raspberry pi application
+IoT & Embedded Systems,industrial iot security
+IoT & Embedded Systems,iot cloud integration
+IoT & Embedded Systems,smart device architecture
+IoT & Embedded Systems,sensor integration
+AR/VR & Metaverse Development,virtual reality simulation design
+AR/VR & Metaverse Development,metaverse platform development
+AR/VR & Metaverse Development,unreal engine
+AR/VR & Metaverse Development,xr interaction design
+AR/VR & Metaverse Development,immersive ux design
+AR/VR & Metaverse Development,unity 3d development
+AR/VR & Metaverse Development,3d modeling rendering
+AR/VR & Metaverse Development,spatial computing
+AR/VR & Metaverse Development,augmented reality sdks
+Robotics & Automation,control system engineering
+Robotics & Automation,humanrobot interaction
+Robotics & Automation,robot operating system ro
+Robotics & Automation,mechatronics integration
+Robotics & Automation,slam algorithm
+Quantum Computing,quantum circuit design
+Quantum Computing,hybrid classicalquantum system
+Quantum Computing,quantum simulation
+Quantum Computing,postquantum cryptography
+Quantum Computing,superconducting qubits
+Quantum Computing,qiskit framework
+Quantum Computing,quantum error correction
+Cyber Threat Intelligence,malware analysis
+Cyber Threat Intelligence,red team blue team strategy
+Cyber Threat Intelligence,siem tool
+Cyber Threat Intelligence,threat modeling
+Cyber Threat Intelligence,soc operation
+Cyber Threat Intelligence,zero trust architecture
+Mobile App Development,io development swift
+Mobile App Development,api integration mobile apps
+Mobile App Development,app store deployment optimization
+Mobile App Development,react native development
+Mobile App Development,android development kotlin
+Mobile App Development,mobile uiux design
+Mobile App Development,app performance optimization
+Mobile App Development,crossplatform development flutter
+Mobile App Development,push notification system
+Mobile App Development,mobile security best practice

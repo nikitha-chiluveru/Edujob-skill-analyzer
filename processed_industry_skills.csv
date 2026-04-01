@@ -1,0 +1,195 @@
+Domain,skill,Demand Level,source,clean_skill
+Data Science & Analytics,Advanced SQL & Query Optimization,Very High,Industry Consolidated,advanced sql query optimization
+Data Science & Analytics,Feature Engineering,Very High,Industry Consolidated,feature engineering
+Data Science & Analytics,Data Cleaning & Preprocessing,Very High,Industry Consolidated,data cleaning preprocessing
+Data Science & Analytics,Exploratory Data Analysis (EDA),High,Industry Consolidated,exploratory data analysis eda
+Data Science & Analytics,Statistical Modeling,High,Industry Consolidated,statistical modeling
+Data Science & Analytics,Time Series Analysis,High,Industry Consolidated,time series analysis
+Data Science & Analytics,A/B Testing,High,Industry Consolidated,ab testing
+Data Science & Analytics,"Data Visualization (Power BI, Tableau)",High,Industry Consolidated,data visualization power bi tableau
+Data Science & Analytics,Python for Data Analysis,Very High,Industry Consolidated,python data analysis
+Data Science & Analytics,R for Statistical Computing,Moderate,Industry Consolidated,r statistical computing
+Data Science & Analytics,Data Wrangling,Very High,Industry Consolidated,data wrangling
+Data Science & Analytics,Probability & Statistics,Very High,Industry Consolidated,probability statistic
+Data Science & Analytics,Regression Analysis,High,Industry Consolidated,regression analysis
+Data Science & Analytics,Clustering Techniques,High,Industry Consolidated,clustering technique
+Data Science & Analytics,Data Storytelling,High,Industry Consolidated,data storytelling
+Artificial Intelligence & Machine Learning,Supervised Learning,Very High,Industry Consolidated,supervised learning
+Artificial Intelligence & Machine Learning,Unsupervised Learning,High,Industry Consolidated,unsupervised learning
+Artificial Intelligence & Machine Learning,Deep Learning,Very High,Industry Consolidated,deep learning
+Artificial Intelligence & Machine Learning,Natural Language Processing,Very High,Industry Consolidated,natural language processing
+Artificial Intelligence & Machine Learning,Computer Vision,High,Industry Consolidated,computer vision
+Artificial Intelligence & Machine Learning,Reinforcement Learning,Moderate,Industry Consolidated,reinforcement learning
+Artificial Intelligence & Machine Learning,TensorFlow,High,Industry Consolidated,tensorflow
+Artificial Intelligence & Machine Learning,PyTorch,High,Industry Consolidated,pytorch
+Artificial Intelligence & Machine Learning,Transformers & LLMs,Very High,Industry Consolidated,transformer llm
+Artificial Intelligence & Machine Learning,Prompt Engineering,Very High,Industry Consolidated,prompt engineering
+Artificial Intelligence & Machine Learning,Model Evaluation Metrics,High,Industry Consolidated,model evaluation metric
+Artificial Intelligence & Machine Learning,Model Deployment,High,Industry Consolidated,model deployment
+Artificial Intelligence & Machine Learning,MLOps,High,Industry Consolidated,mlops
+Artificial Intelligence & Machine Learning,Hyperparameter Tuning,High,Industry Consolidated,hyperparameter tuning
+Artificial Intelligence & Machine Learning,Ethical AI & Bias Mitigation,High,Industry Consolidated,ethical ai bias mitigation
+Cloud Computing,AWS Services,Very High,Industry Consolidated,aws service
+Cloud Computing,Microsoft Azure,High,Industry Consolidated,microsoft azure
+Cloud Computing,Google Cloud Platform,High,Industry Consolidated,google cloud platform
+Cloud Computing,Cloud Architecture Design,Very High,Industry Consolidated,cloud architecture design
+Cloud Computing,Microservices Architecture,High,Industry Consolidated,microservices architecture
+Cloud Computing,Serverless Computing,High,Industry Consolidated,serverless computing
+Cloud Computing,Cloud Security,Very High,Industry Consolidated,cloud security
+Cloud Computing,Infrastructure as Code (Terraform),High,Industry Consolidated,infrastructure code terraform
+Cloud Computing,Kubernetes,Very High,Industry Consolidated,kubernetes
+Cloud Computing,Docker,Very High,Industry Consolidated,docker
+Cloud Computing,CI/CD in Cloud,High,Industry Consolidated,cicd cloud
+Cloud Computing,Cloud Cost Optimization,Moderate,Industry Consolidated,cloud cost optimization
+Cybersecurity,Network Security,Very High,Industry Consolidated,network security
+Cybersecurity,Ethical Hacking,High,Industry Consolidated,ethical hacking
+Cybersecurity,Penetration Testing,High,Industry Consolidated,penetration testing
+Cybersecurity,SIEM Tools,High,Industry Consolidated,siem tool
+Cybersecurity,Cryptography,High,Industry Consolidated,cryptography
+Cybersecurity,Identity & Access Management,High,Industry Consolidated,identity access management
+Cybersecurity,Threat Intelligence,High,Industry Consolidated,threat intelligence
+Cybersecurity,Incident Response,Very High,Industry Consolidated,incident response
+Cybersecurity,Application Security,High,Industry Consolidated,application security
+Cybersecurity,Cloud Security Practices,Very High,Industry Consolidated,cloud security practice
+DevOps & Site Reliability,CI/CD Pipelines,Very High,Industry Consolidated,cicd pipeline
+DevOps & Site Reliability,Jenkins,High,Industry Consolidated,jenkins
+DevOps & Site Reliability,GitHub Actions,High,Industry Consolidated,github action
+DevOps & Site Reliability,Containerization,Very High,Industry Consolidated,containerization
+DevOps & Site Reliability,Monitoring & Observability,High,Industry Consolidated,monitoring observability
+DevOps & Site Reliability,Infrastructure Automation,High,Industry Consolidated,infrastructure automation
+DevOps & Site Reliability,DevSecOps,Very High,Industry Consolidated,devsecops
+DevOps & Site Reliability,Site Reliability Engineering,High,Industry Consolidated,site reliability engineering
+Software Engineering & Systems,Data Structures & Algorithms,Very High,Industry Consolidated,data structure algorithm
+Software Engineering & Systems,System Design,Very High,Industry Consolidated,system design
+Software Engineering & Systems,Scalability Engineering,High,Industry Consolidated,scalability engineering
+Software Engineering & Systems,Design Patterns,High,Industry Consolidated,design pattern
+Software Engineering & Systems,Concurrency & Multithreading,Moderate,Industry Consolidated,concurrency multithreading
+Software Engineering & Systems,API Development,High,Industry Consolidated,api development
+Software Engineering & Systems,Version Control (Git),Very High,Industry Consolidated,version control git
+Software Engineering & Systems,Automated Testing,High,Industry Consolidated,automated testing
+Web Development & Full Stack,HTML5 & CSS3,Very High,Industry Consolidated,html5 css3
+Web Development & Full Stack,JavaScript ES6+,Very High,Industry Consolidated,javascript es6
+Web Development & Full Stack,React.js,Very High,Industry Consolidated,reactjs
+Web Development & Full Stack,Angular,High,Industry Consolidated,angular
+Web Development & Full Stack,Node.js,High,Industry Consolidated,nodejs
+Web Development & Full Stack,REST APIs,High,Industry Consolidated,rest apis
+Web Development & Full Stack,GraphQL,Moderate,Industry Consolidated,graphql
+Web Development & Full Stack,Frontend Optimization,High,Industry Consolidated,frontend optimization
+Business Analytics & BI,Advanced Excel,Moderate,Industry Consolidated,advanced excel
+Business Analytics & BI,Power BI Dashboards,High,Industry Consolidated,power bi dashboard
+Business Analytics & BI,Tableau Reporting,High,Industry Consolidated,tableau reporting
+Business Analytics & BI,KPI Monitoring,High,Industry Consolidated,kpi monitoring
+Business Analytics & BI,Forecasting Models,High,Industry Consolidated,forecasting model
+Business Analytics & BI,SQL for Analytics,Very High,Industry Consolidated,sql analytics
+Data Engineering,ETL Pipelines,Very High,Industry Consolidated,etl pipeline
+Data Engineering,Apache Spark,Very High,Industry Consolidated,apache spark
+Data Engineering,Kafka Streaming,High,Industry Consolidated,kafka streaming
+Data Engineering,Data Warehousing,Very High,Industry Consolidated,data warehousing
+Data Engineering,Airflow Orchestration,High,Industry Consolidated,airflow orchestration
+Data Engineering,Big Data Processing,High,Industry Consolidated,big data processing
+Soft & Employability Skills,Analytical Thinking,Very High,Industry Consolidated,analytical thinking
+Soft & Employability Skills,Problem Solving,Very High,Industry Consolidated,problem solving
+Soft & Employability Skills,Communication Skills,Very High,Industry Consolidated,communication skill
+Soft & Employability Skills,Team Collaboration,High,Industry Consolidated,team collaboration
+Soft & Employability Skills,Adaptability,High,Industry Consolidated,adaptability
+Soft & Employability Skills,Continuous Learning,Very High,Industry Consolidated,continuous learning
+Generative AI & LLM Engineering,Prompt Engineering for LLMs,Very High,Industry Consolidated,prompt engineering llm
+Generative AI & LLM Engineering,Fine-tuning Large Language Models,Very High,Industry Consolidated,finetuning large language model
+Generative AI & LLM Engineering,Retrieval-Augmented Generation (RAG),Very High,Industry Consolidated,retrievalaugmented generation rag
+Generative AI & LLM Engineering,LLM Deployment with APIs,High,Industry Consolidated,llm deployment apis
+Generative AI & LLM Engineering,LangChain / LlamaIndex Frameworks,High,Industry Consolidated,langchain llamaindex framework
+Generative AI & LLM Engineering,Model Quantization & Optimization,High,Industry Consolidated,model quantization optimization
+Generative AI & LLM Engineering,"Vector Databases (FAISS, Pinecone)",Very High,Industry Consolidated,vector database faiss pinecone
+Generative AI & LLM Engineering,AI Agents Development,Very High,Industry Consolidated,ai agent development
+Generative AI & LLM Engineering,Responsible AI & Bias Mitigation,High,Industry Consolidated,responsible ai bias mitigation
+Generative AI & LLM Engineering,Multimodal AI Systems,High,Industry Consolidated,multimodal ai system
+MLOps & Model Deployment,Model Versioning (MLflow),Very High,Industry Consolidated,model versioning mlflow
+MLOps & Model Deployment,Docker for ML Models,Very High,Industry Consolidated,docker ml model
+MLOps & Model Deployment,Kubernetes for ML Scaling,High,Industry Consolidated,kubernetes ml scaling
+MLOps & Model Deployment,CI/CD for Machine Learning,Very High,Industry Consolidated,cicd machine learning
+MLOps & Model Deployment,Monitoring ML Models in Production,Very High,Industry Consolidated,monitoring ml model production
+MLOps & Model Deployment,Automated Model Retraining,High,Industry Consolidated,automated model retraining
+MLOps & Model Deployment,Feature Stores,High,Industry Consolidated,feature store
+MLOps & Model Deployment,Data Drift Detection,Very High,Industry Consolidated,data drift detection
+MLOps & Model Deployment,Experiment Tracking,High,Industry Consolidated,experiment tracking
+MLOps & Model Deployment,ML Pipelines Automation,Very High,Industry Consolidated,ml pipeline automation
+Blockchain & Web3,Smart Contract Development (Solidity),High,Industry Consolidated,smart contract development solidity
+Blockchain & Web3,Ethereum Development,High,Industry Consolidated,ethereum development
+Blockchain & Web3,Decentralized Applications (DApps),High,Industry Consolidated,decentralized application dapps
+Blockchain & Web3,Web3 Authentication Systems,High,Industry Consolidated,web3 authentication system
+Blockchain & Web3,Blockchain Security Auditing,Very High,Industry Consolidated,blockchain security auditing
+Blockchain & Web3,NFT Platforms Development,Medium,Industry Consolidated,nft platform development
+Blockchain & Web3,Layer 2 Scaling Solutions,High,Industry Consolidated,layer 2 scaling solution
+Blockchain & Web3,Cryptography Fundamentals,Very High,Industry Consolidated,cryptography fundamental
+Blockchain & Web3,Hyperledger Fabric,High,Industry Consolidated,hyperledger fabric
+Blockchain & Web3,DeFi Systems Architecture,High,Industry Consolidated,defi system architecture
+Data Engineering,ETL Pipeline Development,Very High,Industry Consolidated,etl pipeline development
+Data Engineering,Apache Spark,Very High,Industry Consolidated,apache spark
+Data Engineering,Hadoop Ecosystem,High,Industry Consolidated,hadoop ecosystem
+Data Engineering,Data Warehousing (Snowflake),Very High,Industry Consolidated,data warehousing snowflake
+Data Engineering,Big Data Processing,Very High,Industry Consolidated,big data processing
+Data Engineering,Airflow Workflow Orchestration,High,Industry Consolidated,airflow workflow orchestration
+Data Engineering,Kafka Streaming Systems,Very High,Industry Consolidated,kafka streaming system
+Data Engineering,Data Lake Architecture,High,Industry Consolidated,data lake architecture
+Data Engineering,Schema Design Optimization,High,Industry Consolidated,schema design optimization
+Data Engineering,Data Governance Practices,Very High,Industry Consolidated,data governance practice
+IoT & Embedded Systems,Sensor Integration,High,Industry Consolidated,sensor integration
+IoT & Embedded Systems,Microcontroller Programming,High,Industry Consolidated,microcontroller programming
+IoT & Embedded Systems,IoT Cloud Integration,Very High,Industry Consolidated,iot cloud integration
+IoT & Embedded Systems,Edge Computing Systems,Very High,Industry Consolidated,edge computing system
+IoT & Embedded Systems,MQTT Protocol,High,Industry Consolidated,mqtt protocol
+IoT & Embedded Systems,Firmware Development,High,Industry Consolidated,firmware development
+IoT & Embedded Systems,Raspberry Pi Applications,Medium,Industry Consolidated,raspberry pi application
+IoT & Embedded Systems,Real-time Operating Systems (RTOS),High,Industry Consolidated,realtime operating system rtos
+IoT & Embedded Systems,Industrial IoT Security,Very High,Industry Consolidated,industrial iot security
+IoT & Embedded Systems,Smart Device Architecture,High,Industry Consolidated,smart device architecture
+AR/VR & Metaverse Development,Unity 3D Development,High,Industry Consolidated,unity 3d development
+AR/VR & Metaverse Development,Unreal Engine,High,Industry Consolidated,unreal engine
+AR/VR & Metaverse Development,Augmented Reality SDKs,High,Industry Consolidated,augmented reality sdks
+AR/VR & Metaverse Development,Virtual Reality Simulation Design,High,Industry Consolidated,virtual reality simulation design
+AR/VR & Metaverse Development,3D Modeling & Rendering,High,Industry Consolidated,3d modeling rendering
+AR/VR & Metaverse Development,Spatial Computing,Very High,Industry Consolidated,spatial computing
+AR/VR & Metaverse Development,Metaverse Platform Development,High,Industry Consolidated,metaverse platform development
+AR/VR & Metaverse Development,XR Interaction Design,High,Industry Consolidated,xr interaction design
+AR/VR & Metaverse Development,Gesture Recognition Systems,Medium,Industry Consolidated,gesture recognition system
+AR/VR & Metaverse Development,Immersive UX Design,High,Industry Consolidated,immersive ux design
+Robotics & Automation,Robot Operating System (ROS),High,Industry Consolidated,robot operating system ro
+Robotics & Automation,Autonomous Navigation Systems,Very High,Industry Consolidated,autonomous navigation system
+Robotics & Automation,Computer Vision for Robotics,Very High,Industry Consolidated,computer vision robotics
+Robotics & Automation,Industrial Automation Systems,High,Industry Consolidated,industrial automation system
+Robotics & Automation,Control Systems Engineering,High,Industry Consolidated,control system engineering
+Robotics & Automation,Path Planning Algorithms,High,Industry Consolidated,path planning algorithm
+Robotics & Automation,SLAM Algorithms,Very High,Industry Consolidated,slam algorithm
+Robotics & Automation,Mechatronics Integration,High,Industry Consolidated,mechatronics integration
+Robotics & Automation,Robotic Process Automation (RPA),Very High,Industry Consolidated,robotic process automation rpa
+Robotics & Automation,Human-Robot Interaction,High,Industry Consolidated,humanrobot interaction
+Quantum Computing,Quantum Algorithms,High,Industry Consolidated,quantum algorithm
+Quantum Computing,Qiskit Framework,High,Industry Consolidated,qiskit framework
+Quantum Computing,Quantum Circuit Design,High,Industry Consolidated,quantum circuit design
+Quantum Computing,Quantum Cryptography,Very High,Industry Consolidated,quantum cryptography
+Quantum Computing,Quantum Machine Learning,High,Industry Consolidated,quantum machine learning
+Quantum Computing,Superconducting Qubits,Medium,Industry Consolidated,superconducting qubits
+Quantum Computing,Quantum Error Correction,High,Industry Consolidated,quantum error correction
+Quantum Computing,Hybrid Classical-Quantum Systems,High,Industry Consolidated,hybrid classicalquantum system
+Quantum Computing,Quantum Simulations,High,Industry Consolidated,quantum simulation
+Quantum Computing,Post-Quantum Cryptography,Very High,Industry Consolidated,postquantum cryptography
+Cyber Threat Intelligence,Threat Modeling,Very High,Industry Consolidated,threat modeling
+Cyber Threat Intelligence,Malware Analysis,Very High,Industry Consolidated,malware analysis
+Cyber Threat Intelligence,SIEM Tools,Very High,Industry Consolidated,siem tool
+Cyber Threat Intelligence,Incident Response Handling,Very High,Industry Consolidated,incident response handling
+Cyber Threat Intelligence,Penetration Testing,Very High,Industry Consolidated,penetration testing
+Cyber Threat Intelligence,Digital Forensics,High,Industry Consolidated,digital forensics
+Cyber Threat Intelligence,Zero Trust Architecture,Very High,Industry Consolidated,zero trust architecture
+Cyber Threat Intelligence,Vulnerability Assessment,Very High,Industry Consolidated,vulnerability assessment
+Cyber Threat Intelligence,SOC Operations,High,Industry Consolidated,soc operation
+Cyber Threat Intelligence,Red Team / Blue Team Strategies,High,Industry Consolidated,red team blue team strategy
+Mobile App Development,Android Development (Kotlin),Very High,Industry Consolidated,android development kotlin
+Mobile App Development,iOS Development (Swift),High,Industry Consolidated,io development swift
+Mobile App Development,Cross-platform Development (Flutter),Very High,Industry Consolidated,crossplatform development flutter
+Mobile App Development,React Native Development,High,Industry Consolidated,react native development
+Mobile App Development,Mobile UI/UX Design,High,Industry Consolidated,mobile uiux design
+Mobile App Development,App Performance Optimization,High,Industry Consolidated,app performance optimization
+Mobile App Development,Mobile Security Best Practices,Very High,Industry Consolidated,mobile security best practice
+Mobile App Development,API Integration in Mobile Apps,Very High,Industry Consolidated,api integration mobile apps
+Mobile App Development,Push Notification Systems,Medium,Industry Consolidated,push notification system
+Mobile App Development,App Store Deployment & Optimization,High,Industry Consolidated,app store deployment optimization

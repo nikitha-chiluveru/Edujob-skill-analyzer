@@ -1,0 +1,20 @@
+Domain,Total Industry Skills,Matched Skills,Missing Skills,Coverage %
+Software Engineering & Systems,8,7,1,87.5
+Cybersecurity,10,8,2,80.0
+Artificial Intelligence & Machine Learning,15,12,3,80.0
+Soft & Employability Skills,6,4,2,66.67
+Data Science & Analytics,15,9,6,60.0
+Cloud Computing,12,7,5,58.33
+IoT & Embedded Systems,10,5,5,50.0
+Robotics & Automation,10,5,5,50.0
+Data Engineering,14,6,8,42.86
+Cyber Threat Intelligence,10,4,6,40.0
+Web Development & Full Stack,8,3,5,37.5
+DevOps & Site Reliability,8,3,5,37.5
+Business Analytics & BI,6,2,4,33.33
+Quantum Computing,10,3,7,30.0
+Blockchain & Web3,10,3,7,30.0
+Generative AI & LLM Engineering,10,2,8,20.0
+AR/VR & Metaverse Development,10,1,9,10.0
+MLOps & Model Deployment,10,0,10,0.0
+Mobile App Development,10,0,10,0.0

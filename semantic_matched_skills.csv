@@ -1,0 +1,85 @@
+Domain,Matched Skill
+Data Science & Analytics,exploratory data analysis eda
+Data Science & Analytics,data wrangling
+Data Science & Analytics,statistical modeling
+Data Science & Analytics,regression analysis
+Data Science & Analytics,time series analysis
+Data Science & Analytics,data cleaning preprocessing
+Data Science & Analytics,clustering technique
+Data Science & Analytics,advanced sql query optimization
+Data Science & Analytics,feature engineering
+Artificial Intelligence & Machine Learning,natural language processing
+Artificial Intelligence & Machine Learning,ethical ai bias mitigation
+Artificial Intelligence & Machine Learning,pytorch
+Artificial Intelligence & Machine Learning,unsupervised learning
+Artificial Intelligence & Machine Learning,deep learning
+Artificial Intelligence & Machine Learning,supervised learning
+Artificial Intelligence & Machine Learning,model evaluation metric
+Artificial Intelligence & Machine Learning,hyperparameter tuning
+Artificial Intelligence & Machine Learning,reinforcement learning
+Artificial Intelligence & Machine Learning,model deployment
+Artificial Intelligence & Machine Learning,computer vision
+Artificial Intelligence & Machine Learning,tensorflow
+Cloud Computing,google cloud platform
+Cloud Computing,microservices architecture
+Cloud Computing,serverless computing
+Cloud Computing,cloud architecture design
+Cloud Computing,kubernetes
+Cloud Computing,cloud security
+Cloud Computing,microsoft azure
+Cybersecurity,network security
+Cybersecurity,penetration testing
+Cybersecurity,cloud security practice
+Cybersecurity,threat intelligence
+Cybersecurity,ethical hacking
+Cybersecurity,incident response
+Cybersecurity,identity access management
+Cybersecurity,cryptography
+DevOps & Site Reliability,infrastructure automation
+DevOps & Site Reliability,jenkins
+DevOps & Site Reliability,containerization
+Software Engineering & Systems,design pattern
+Software Engineering & Systems,automated testing
+Software Engineering & Systems,data structure algorithm
+Software Engineering & Systems,concurrency multithreading
+Software Engineering & Systems,scalability engineering
+Software Engineering & Systems,system design
+Software Engineering & Systems,api development
+Web Development & Full Stack,angular
+Web Development & Full Stack,html5 css3
+Web Development & Full Stack,reactjs
+Business Analytics & BI,sql analytics
+Business Analytics & BI,forecasting model
+Data Engineering,kafka streaming system
+Data Engineering,hadoop ecosystem
+Data Engineering,data warehousing
+Data Engineering,big data processing
+Data Engineering,data lake architecture
+Data Engineering,apache spark
+Soft & Employability Skills,problem solving
+Soft & Employability Skills,adaptability
+Soft & Employability Skills,team collaboration
+Soft & Employability Skills,communication skill
+Generative AI & LLM Engineering,model quantization optimization
+Generative AI & LLM Engineering,finetuning large language model
+Blockchain & Web3,hyperledger fabric
+Blockchain & Web3,decentralized application dapps
+Blockchain & Web3,cryptography fundamental
+IoT & Embedded Systems,realtime operating system rtos
+IoT & Embedded Systems,mqtt protocol
+IoT & Embedded Systems,firmware development
+IoT & Embedded Systems,microcontroller programming
+IoT & Embedded Systems,edge computing system
+AR/VR & Metaverse Development,gesture recognition system
+Robotics & Automation,industrial automation system
+Robotics & Automation,autonomous navigation system
+Robotics & Automation,path planning algorithm
+Robotics & Automation,robotic process automation rpa
+Robotics & Automation,computer vision robotics
+Quantum Computing,quantum cryptography
+Quantum Computing,quantum algorithm
+Quantum Computing,quantum machine learning
+Cyber Threat Intelligence,penetration testing
+Cyber Threat Intelligence,digital forensics
+Cyber Threat Intelligence,incident response handling
+Cyber Threat Intelligence,vulnerability assessment
